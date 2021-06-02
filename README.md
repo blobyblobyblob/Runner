@@ -4,7 +4,7 @@ the trex runner game extracted from chrome offline err page.
 
 see the [source](https://github.com/wayou/t-rex-runner/)
 
-[go and enjoy! :smile: ](https://janek20202.github.io/test/)
+[go and enjoy! :smile: ]
 
 ![chrome offline game cast](assets/screenshot.gif)
 
